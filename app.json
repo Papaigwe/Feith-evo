@@ -1,21 +1,21 @@
 {
-  "name": "FIRE MD",
+  "name": "Feith evo",
   "description": " BRINGING FORTH A NEW REVOLUTION.",
   "keywords": [
     "FIRE MD"
   ],
-  "repository": "https://github.com/Opaksfire/FIRE-MD/tree/main",
+  "repository": "https://github.com/papaigwe/Feith-evo/tree/main",
   "stack": "container",
   "env": {
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "2349013432338;opaksfire"
+      "value": "24160338758;papaigwe"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "FIRE MD"
+      "value": "Feith evo"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
