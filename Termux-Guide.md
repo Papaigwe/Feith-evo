@@ -1,4 +1,4 @@
-# Fire md termux deployment 
+# FEITH EVO termux deployment 
 
 ##  Prerequisites
 
@@ -12,8 +12,8 @@
 
  Run the following commands to clone the repo (Use your fork)
  ```SH
-> git clone https://github.com/Opaksfire/FIRE-MD
-> cd FIRE-MD
+> git clone https://github.com/papaigwd/Feith-evo
+> cd Feith-evo
  ```
 
  Run this following command to install the dependencies 
