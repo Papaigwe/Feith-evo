@@ -1,7 +1,7 @@
 {
-    "name": "FIRE MD",
+    "name": "feith-evo",
     "version": "2.1.0",
-    "description": "A FIRE NATION  BY OPAKSFIRE",
+    "description": "A FIRE NATION  BY IGWETECH",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -19,16 +19,16 @@
     "keywords": [
        
     ],
-    "homepage": "https://github.com/Opaksfire/FIRE-MD/",
+    "homepage": "https://github.com/papaigwe/Feith-evo/",
     "author": {
-        "name": "OPAKSFIRE"
+        "name": "PAPAIGWE"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Opaksfire/FIRE-MD.git"
+        "url": "git+https://github.com/papaigwe/Feith-evo.git"
     },
     "bugs": {
-        "url": "https://github.com/Opaksfire/FIRE-MD/issues"
+        "url": "https://github.com/papaigwe/Feith-evo/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
